@@ -2,8 +2,9 @@
 
 ## TODO
 1. start readme file
-2. create keyvault and aks
-3. generate random string and store in keyvault
-4. create secretproviderclass and get the keyvault secret
-5. create a deployment to store the secret as volume
-6. test it
+2. pre-requisites
+3. create keyvault and aks
+4. generate random string and store in keyvault
+5. create secretproviderclass and get the keyvault secret
+6. create a deployment to store the secret as volume
+7. test it
